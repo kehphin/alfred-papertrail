@@ -5,7 +5,7 @@ Alfred 3 Plugin for Papertrail
 
 This Plugin allows you to search for projects within your Papertrail system. When a project is selected, it will open up a new browser tab to that project within Papertrail.
 
-**Note: This requires you to be logged into papertrail in the browser.**
+**Note: This requires you to be logged into Papertrail in the browser.**
 
 ## Usage
 
