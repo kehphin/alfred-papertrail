@@ -32,7 +32,7 @@ class Setup
         .type('default')
         .valid(true)
         .icon('img/icon.png')
-        .arg('https://genius.com/api-clients/new')
+        .arg('')
 
     print Base.workflow.output
   end
